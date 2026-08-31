@@ -1,0 +1,15 @@
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\event_groups.c
+.\output\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\FreeRTOS.h
+.\output\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\FreeRTOSConfig.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\projdefs.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\portable.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\deprecated_definitions.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\portable\RVDS\ARM_CM0\portmacro.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\mpu_wrappers.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\task.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\list.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\timers.h
+.\output\event_groups.o: ..\..\Drivers\FreeRTOS\Source\include\event_groups.h

@@ -1,0 +1,14 @@
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+palm_app\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+palm_app\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+palm_app\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+palm_app\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

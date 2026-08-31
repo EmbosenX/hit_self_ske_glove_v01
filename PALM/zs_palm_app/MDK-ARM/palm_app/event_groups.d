@@ -1,0 +1,15 @@
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+palm_app\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+palm_app\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+palm_app\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+palm_app\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+palm_app\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
